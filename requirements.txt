@@ -1,0 +1,5 @@
+opencv-python
+pytesseract
+numpy
+subprocess.run
+tensorflow==1.15
